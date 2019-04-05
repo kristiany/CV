@@ -3,9 +3,9 @@
 Email: kristian.y on the gmail.com domain, GitHub: [github.com/kristiany](https://github.com/kristiany), LinkedIn: [linkedin.com/kristian-yrjölä](https://se.linkedin.com/in/kristian-yrjölä-5347364)
 
 
-* Team over individuals: I strongly believe that what anyone in the team does should be for the team and not for themselves. Silos are never ever a good thing, and lonewolf rockstars tend to destroy more than they help
+* Team over individuals
 * Code over arguments: doesn't matter how much you discuss something, if it fails in a PoC, it's not valid
-* Decisions: a delicate thing to some people, I keep no feelings towards my or anyone else's decisions at all. A decision is like a fresh dairy product, it expires for sure after a period of time. Decisions normally shouldn't be taken by one indivdual, but the whole team. If no consensus can be reached, PoC the options if possible, or just go with one and adjust later. 
+* Decisions: are like fresh dairy products, it expires for sure after a period of time. Decisions normally shouldn't be taken by one indivdual, but the whole team. If no consensus can be reached, PoC the options if possible, or just go with one and adjust later 
 * Wheels: don't re-invent them. If you can buy a solution to a problem, writing your own should be secondary
 * Leading by (my) example: very much hands-on but still wrapping my head around the bigger picture
 * Get shit done: code in production over a perfect first solution
@@ -51,4 +51,4 @@ Master's degree in Computer Science (160 old Swedish points, 240 ECTS points, 4 
 Final thesis was a D-level (20 old Swedish points) solo project, where I developed a computer graphics-engine for rendering water-waves in real-time based on approximations of water's physical properties. I found a simple way to bend the waves so they align towards land in the simulation. The application was implemented in C++ with OpenGL. My supervisor was Thomas Larsson at MDH, and he helped me to write and submit a short version of the report to [SIGRAD 2007](http://www.ep.liu.se/ecp/028/), it was accepted and presented. Unfortunately I could not attend the presentation.
 
 ## Language
-Swedish: native, English fluent
+Swedish: native, English: fluent
