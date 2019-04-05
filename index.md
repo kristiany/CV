@@ -3,12 +3,12 @@
 Email: kristian.y on the gmail.com domain, GitHub: [github.com/kristiany](https://github.com/kristiany), LinkedIn: [linkedin.com/kristian-yrjölä](https://se.linkedin.com/in/kristian-yrjölä-5347364)
 
 
-* Team over individuals
-* Code over arguments: doesn't matter how much you discuss something, if it fails in a PoC, it's not valid
-* Decisions: are like fresh dairy products, it expires for sure after a period of time. Decisions normally shouldn't be taken by one indivdual, but the whole team. If no consensus can be reached, PoC the options if possible, or just go with one and adjust later 
-* Wheels: don't re-invent them. If you can buy a solution to a problem, writing your own should be secondary
-* Leading by (my) example: very much hands-on but still wrapping my head around the bigger picture
-* Get shit done: code in production over a perfect first solution
+* *Team over individuals*: no code/infra silos, everyone should be able to do anything
+* *Code over arguments*: doesn't matter how much you discuss something, if it fails in a PoC, it's not valid
+* *Decisions*: are like fresh dairy products, it expires for sure after a period of time. Decisions normally shouldn't be taken by one indivdual, but the whole team. If no consensus can be reached, PoC the options if possible, or just go with one and adjust later 
+* *Wheels*: don't re-invent them. If you can buy a solution to a problem, writing your own should be secondary
+* *Leading by (my) example*: very much hands-on but still wrapping my head around the bigger picture
+* *Get shit done*: code in production over a perfect first solution
 
 ## Experience
 ### Schibsted 2013 Jan - now
